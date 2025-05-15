@@ -1,4 +1,4 @@
-name: Selenium Python Tests on Ubuntu
+name: Selenium Python Tests Web rau cu on Ubuntu
 
 on:
   push:
