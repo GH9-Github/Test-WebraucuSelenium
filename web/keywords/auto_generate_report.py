@@ -11,3 +11,4 @@ os.makedirs(report_dir, exist_ok=True)
 def run_tests():
     runner = HtmlTestRunner.HTMLTestRunner(output=report_dir)
     return runner
+
